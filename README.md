@@ -1,1 +1,1 @@
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=ylambark)](https://github.com/mohouyizme/1337-readme)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/ylambark" alt="ylambark's 42 stats" /></a>
